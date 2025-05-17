@@ -1,0 +1,25 @@
+2025-05-01 11:50:36.003 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/felipe/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.20-universal/runtime/vscode-neovim.vim
+2025-05-01 11:50:36.029 [info] MainController: Nvim info: {
+  nvimVersion: {
+    minor: 10,
+    major: 0,
+    api_prerelease: false,
+    patch: 4,
+    build: 'v0.10.4',
+    api_level: 12,
+    api_compatible: 0,
+    prerelease: false
+  },
+  logFile: '/home/felipe/.local/state/nvim/log',
+  configDir: '/home/felipe/.config/nvim',
+  configFile: '/home/felipe/.config/nvim/init.lua'
+}
+2025-05-01 11:52:59.522 [info] MessagesManager: '226 lines yanked\n'
+2025-05-01 12:18:48.313 [info] MessagesManager: '5 fewer lines\n'
+2025-05-01 12:18:49.123 [info] MessagesManager: '5 more lines\n'
+2025-05-01 12:18:52.196 [info] MessagesManager: '5 more lines\n'
+2025-05-01 12:18:54.130 [info] MessagesManager: '5 fewer lines\n'
+2025-05-01 12:28:49.619 [info] MessagesManager: '15 lines yanked\n'
+2025-05-01 12:28:56.646 [info] MessagesManager: '14 more lines\n'
+2025-05-01 12:38:11.044 [info] MessagesManager: '10 lines yanked\n'
+2025-05-01 12:38:19.018 [info] MessagesManager: '9 more lines\n'

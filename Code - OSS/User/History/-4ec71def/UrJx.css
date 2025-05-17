@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --accent: rgb(255, 180, 81);;
+}
+
+body {
+    background-color: #484848;
+    color: white;
+}
+
+.general-container{
+    width: 60vw;
+    height: 80vh;
+    background-color: #333;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5) 10px; 
+}
+
+.sub-container {
+    width: 40%;
+    height: 60%;
+}
+
+.vertical-line {
+    width: 1px;
+    height: 80%;
+    background-color: white;
+}
+
+.big-btn {
+    padding: 5px 20px;
+    background-color: #484848;
+    color: white;
+    border-radius: 25vmin;
+    border: 1px solid var(--accent);
+}

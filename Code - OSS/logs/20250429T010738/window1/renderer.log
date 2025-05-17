@@ -1,0 +1,29 @@
+2025-04-29 01:07:38.982 [info] Started local extension host with pid 2280.
+2025-04-29 01:07:39.238 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-04-29 01:07:39.435 [info] Started local extension host with pid 2345.
+2025-04-29 01:07:41.459 [error] Error while getting the latest version for the extension asvetliakov.vscode-neovim. Cannot read properties of undefined (reading 'replace')
+2025-04-29 01:07:41.460 [error] Error while getting the latest version for the extension ms-vscode.live-server. Cannot read properties of undefined (reading 'replace')
+2025-04-29 01:07:41.460 [error] Error while getting the latest version for the extension zhuangtongfa.material-theme. Cannot read properties of undefined (reading 'replace')
+2025-04-29 01:07:41.627 [info] [perf] Render performance baseline is 14ms
+2025-04-29 01:08:17.267 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-04-29 01:08:17.655 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/lowdb/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/lowdb/package.json')
+2025-04-29 01:08:17.656 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/package.json')
+2025-04-29 01:08:17.656 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/express/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/express/package.json')
+2025-04-29 01:08:17.656 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/path/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/path/package.json')
+2025-04-29 01:08:17.657 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/body-parser/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/body-parser/package.json')
+2025-04-29 01:08:17.657 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/lodash/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/lodash/package.json')
+2025-04-29 01:08:17.657 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/lowdb/node_modules/is-promise/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/lowdb/node_modules/is-promise/package.json')
+2025-04-29 01:08:17.658 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/graceful-fs/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/graceful-fs/package.json')
+2025-04-29 01:08:17.658 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/is-promise/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/is-promise/package.json')
+2025-04-29 01:08:17.658 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/util/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/util/package.json')
+2025-04-29 01:08:17.658 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/util/node_modules/inherits/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/util/node_modules/inherits/package.json')
+2025-04-29 01:08:17.658 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/node_modules/inherits/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/node_modules/inherits/package.json')
+2025-04-29 01:08:17.659 [error] [File Watcher (node.js)] Failed to watch /home/felipe/coding/PFC/.git/refs/remotes/origin/master for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/felipe/coding/PFC/.git/refs/remotes/origin/master')
+2025-04-29 01:08:18.268 [error] [Extension Host] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-04-29 01:08:18.269 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///usr/lib/code/out/bootstrap-fork.js:3:11860)
+	at process.emit (node:events:518:28)
+2025-04-29 01:08:19.272 [error] An unknown error occurred. Please consult the log for more details.

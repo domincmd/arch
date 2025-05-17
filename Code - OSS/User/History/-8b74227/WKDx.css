@@ -1,0 +1,15 @@
+.main-container {
+    max-width: 1100px;    /* or 900px, 1000px, depending on the site */
+    width: 100%;          /* allows it to shrink on smaller screens */
+    margin: 0 auto;       /* centers the block horizontally */
+    padding: 20px;        /* space inside for comfortable reading */
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+p {
+    font-size: 1.5rem;
+    text-align: justify;
+}

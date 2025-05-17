@@ -1,0 +1,2 @@
+2025-05-16 04:41:43.888 [info] Log level: Info
+2025-05-16 04:41:44.226 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: fetch failed

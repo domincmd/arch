@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "felipe@gmail.com",
+      "password": "1230",
+      "points": 0
+    }
+  ],
+  "tokens": [
+  ]
+}
