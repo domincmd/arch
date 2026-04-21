@@ -1,5 +1,0 @@
-audio.play_bitrate_non_metered_migrated=true
-connect.dial_devices="[{\"address\":\"192.168.15.230\",\"app_state\":\"MISSING\",\"created_timestamp\":1746110790,\"device_id\":\"04e68c8e-5c88-4ced-8ef1-2e128fe309d8\",\"dial_location_url\":\"http://192.168.15.230:56790/dd.xml\",\"display_name\":\"VIVO TV-9A60\",\"last_seen\":1746113978,\"manufacturer\":\"ARRIS\",\"model_name\":\"VIP4242H\",\"product_cap\":\"\",\"public_ip\":\"2804:1b1:b080:f502:dd36:d6b8:3bf9:2453\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"4434a7639a60\",\"port\":9,\"retries\":80}},{\"address\":\"192.168.15.2\",\"app_state\":\"INSTALLABLE\",\"created_timestamp\":1746110790,\"device_id\":\"61764929-491c-4dc8-af2e-66d445e9cefc\",\"dial_location_url\":\"http://192.168.15.2:1551/\",\"display_name\":\"[LG] webOS TV UR7800PSA\",\"last_seen\":1746113978,\"manufacturer\":\"LG\",\"model_name\":\"43UR7800PSA\",\"product_cap\":\"\",\"public_ip\":\"2804:1b1:b080:f502:dd36:d6b8:3bf9:2453\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"64e4a5c227e8\",\"port\":9,\"retries\":480}}]"
-connect.mdns_devices="[]"
-ui.hide_hpto=true
-app.player.volume=35938

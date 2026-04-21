@@ -1,8 +1,0 @@
-2025-05-01 11:46:40.122 [info] Getting Manifest... asvetliakov.vscode-neovim
-2025-05-01 11:46:42.204 [info] Installing extension: asvetliakov.vscode-neovim {"productVersion":{"version":"1.97.2","date":"2025-02-13T18:45:48.570Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/felipe/.vscode-oss/extensions/extensions.json","path":"/home/felipe/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
-2025-05-01 11:46:45.995 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
-2025-05-01 11:46:45.995 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
-2025-05-01 11:46:46.029 [info] Extracted extension to file:///home/felipe/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.20-universal: asvetliakov.vscode-neovim
-2025-05-01 11:46:46.032 [info] Renamed to /home/felipe/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.20-universal
-2025-05-01 11:46:46.043 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.19
-2025-05-01 11:46:46.046 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/felipe/.vscode-oss/extensions/extensions.json

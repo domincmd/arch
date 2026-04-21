@@ -1,8 +1,0 @@
-2025-05-03 10:27:06.004 [info] Started local extension host with pid 2050.
-2025-05-03 10:27:06.334 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
-2025-05-03 10:27:06.342 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
-2025-05-03 10:27:06.544 [info] Started local extension host with pid 2118.
-2025-05-03 10:27:09.792 [error] Error while getting the latest version for the extension asvetliakov.vscode-neovim. Cannot read properties of undefined (reading 'replace')
-2025-05-03 10:27:09.792 [error] Error while getting the latest version for the extension ms-vscode.live-server. Cannot read properties of undefined (reading 'replace')
-2025-05-03 10:27:09.792 [error] Error while getting the latest version for the extension zhuangtongfa.material-theme. Cannot read properties of undefined (reading 'replace')
-2025-05-03 10:27:09.969 [info] [perf] Render performance baseline is 25ms
