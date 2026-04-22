@@ -1,0 +1,59 @@
+{
+  "layer": "top",
+  "position": "top",
+
+  "modules-left": ["custom/logo", "hyprland/workspaces", "custom/media"],
+  "modules-center": ["clock"],
+  "modules-right": ["network", "cpu", "memory", "wireplumber"],
+
+  "custom/logo": {
+    "format": "󰣇"
+  },
+
+  "custom/media": {
+    "format": "{icon} {text}",
+    "format-alt": "{text} ",
+    "return-type": "json",
+    "max-length": 40,
+    "format-icons": {
+      "spotify": " ",
+      "default": ""
+    },
+    "escape": true,
+    "exec": "~/.config/waybar/mediaplayer.py" // Script in resources folder
+  }, 
+
+  "hyprland/workspaces": { 
+    "disable-scroll": true,
+    "all-outputs": true
+  },
+
+  "wireplumber": {
+    "format": "  {volume}%",
+    "format-muted": "   0%",
+    "on-click-right": "pavucontrol",
+    "on-click": "wpctl set-mute 55 toggle",
+    "max-volume": 150,
+    "scroll-step": 5
+  },
+
+  "clock": {
+    "interval": 60,
+    "format": "{:%H:%M}",
+    "max-length": 25
+  },
+
+  "network": {
+    "format-wifi": "  {signalStrength}%",
+    "format-ethernet": "󰈀  Connected",
+    "format-disconnected": "  Offline"
+  },
+
+  "cpu": {
+    "format": "  {usage}%"
+  },
+
+  "memory": {
+    "format": "  {used}MB"
+  }
+}

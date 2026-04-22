@@ -1,0 +1,10 @@
+# define sum variables
+ZSH_THEME_GIT_PROMPT_PREFIX=" %F{215}on %F{208}\uE0A0 "
+ZSH_THEME_GIT_PROMPT_SUFFIX=""
+ZSH_THEME_GIT_PROMPT_DIRTY="*"
+ZSH_THEME_GIT_PROMPT_UNTRACKED="?"
+ZSH_THEME_GIT_PROMPT_CLEAN=""
+
+# main prompt
+PROMPT='%F{208}[%F{215}%~%F{208}]$(git_prompt_info)
+%F{215}$%f '

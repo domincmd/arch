@@ -1,0 +1,43 @@
+* {
+  font-family: JetBrainsMono, monospace;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+window#waybar {
+  background: transparent;
+  color: #ffaf5f; 
+}
+
+#workspaces button {
+  padding: 5px;
+  color: #ffaf5f;
+}
+
+#workspaces button.active {
+  background-color: #ffaf5f;
+  color: #211d1a;
+}
+
+#workspaces button:hover {
+  background-color: #e3a56f;
+  color: #211d1a;
+}
+
+.module {
+  background-color: #211d1a;
+  border-radius: 5px;
+  margin: 5px; 
+}
+
+.module:not(#workspaces):not(#custom-logo) {
+  padding: 0 10px;
+}
+
+#custom-logo {
+  font-size: 16px;
+  padding: 10px;
+  padding-right: 15px;
+}
+
