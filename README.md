@@ -1,8 +1,8 @@
 # arch
-these are my archlinux dotfiles!
+my arch dotfiles
 
 to add:
- - [ ] fuzzel config
- - [ ] waybar config
- - [ ] fastfetch config
- - [ ] oh my zsh theme and .zshrc
+ - [x] fuzzel config
+ - [x] waybar config
+ - [x] fastfetch config
+ - [x] oh my zsh theme and .zshrc
